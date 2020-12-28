@@ -1,0 +1,32 @@
+h6 {
+    text-align:left;
+    color:black;
+    font-style:normal;
+}
+
+h5 {
+    text-align: center;
+    color: #0175FF;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+};
+
+div {
+    text-align: left;
+}
+
+body {
+    background-image: linear-gradient(to bottom right, blue, white);
+}
+
+p {
+    text-align: left;
+    color: black;
+    font-style: normal;
+}
+

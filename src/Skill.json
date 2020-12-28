@@ -1,0 +1,34 @@
+[
+    {"Skill":"English communication",
+    "Value":"100"},
+    {
+        "Skill": "Statistics",
+        "Value": "80"
+    },
+    {
+        "Skill": "Python",
+        "Value": 80
+    },
+    {
+        "Skill": "SQL",
+        "Value": 80
+    },
+    {
+        "Skill": "Data Visualization",
+        "Value":80
+    },
+    {
+        "Skill": "Modeling",
+        "Value": 60
+    },
+    {
+        "Skill": "Problem Solving",
+        "Value":100
+    },
+    {"Skill":"Adaptability",
+    "Value":"100"},
+    {"Skill":"Dynamic",
+    "Value":"100"},
+    {"Skill":"Interpersonal Skill",
+    "Value":"100"}
+]
