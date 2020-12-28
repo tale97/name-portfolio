@@ -21,7 +21,7 @@ div {
 }
 
 body {
-    background-image: linear-gradient(to bottom right, blue, white);
+    background-image: linear-gradient(to bottom right, #0175FF, white);
 }
 
 p {
